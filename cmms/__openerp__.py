@@ -22,6 +22,7 @@
 {
     "name": "CMMS",
     "version": "1.0",
+    'price': 1000,
     "depends": ["base", "product", "stock", "account", "mail"],
     "author": "Ait-Mlouk Addi",
     'website': 'http://it-freelance.esy.es/',
