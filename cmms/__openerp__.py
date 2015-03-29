@@ -20,7 +20,7 @@
 #
 ################################################################################
 {
-    "name": "CMMS-7",
+    "name": "CMMS",
     "version": "1.0",
     "depends": ["base", "product", "stock", "account", "mail"],
     "author": "Ait-Mlouk Addi",
