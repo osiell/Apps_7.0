@@ -23,7 +23,7 @@
     "name": "CMMS",
     "version": "1.0",
     "depends": ["base", "product", "stock", "account", "mail"],
-    "author": "Ait-Mlouk Addi",
+    "author": "Ait-Mlouk Addi/heonium-Nextma",
     'website': 'http://it-freelance.esy.es/',
     'icon': '/cmms/static/src/img/icon.png',
     'sequence':1,
@@ -38,6 +38,12 @@ maintenance operation :
  - Check up List.
  - ...
 With this module you can following all equipment type.
+
+For more information:
+
+ - Gmail: aitmlouk@gmail.com
+ - website : http://it-freelance.esy.es/
+
 """,
 
 
