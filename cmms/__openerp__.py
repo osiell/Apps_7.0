@@ -23,7 +23,7 @@
     "name": "CMMS",
     "version": "1.0",
     "depends": ["base", "product", "stock", "account", "mail"],
-    "author": "Ait-Mlouk Addi/heonium-Nextma",
+    "author": "Ait-Mlouk Addi",
     'website': 'http://it-freelance.esy.es/',
     'icon': '/cmms/static/src/img/icon.png',
     'sequence':1,
